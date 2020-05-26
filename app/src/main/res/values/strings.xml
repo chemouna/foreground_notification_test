@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">foreground_notification_test</string>
+  <string name="tools_label">Tools Screen</string>
+</resources>
